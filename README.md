@@ -1,8 +1,9 @@
 # Exercícios SQL
 
 <p align="justify">
-    Teste solicitado pela empresa Xyz;
-    Sql server;
+    Teste solicitado pela empresa Xyz; 
+</p>
+    
 
 
 ## Desafio 01:
