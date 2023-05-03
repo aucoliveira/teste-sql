@@ -8,13 +8,13 @@
 ## Desafio 01:
 <p align="justify">Descrição:</p>
 <p align="justify"> CONSULTE TODOS OS VEÍCULOS EXISTENTES NO BD, EXIBINDO A PLACA, MODELO E FABRICANTE DE CADA UM.'
-<p> ~~~sql
+<p> ```
     select v.PLACA, m.NOME_MODELO, f.NOME_DO_FABRICANTE
 	from VEICULO as v
 	inner join MODELO as m on (v.CODIGO_MODELO = m.CODIGO_MODELO)
 	inner join FABRICANTE as f 
 	on (m.CODIGO_FABRICANTE = f.CODIGO_DO_FABRICANTE);
-~~~
+```
 </p>
 </p>
 
