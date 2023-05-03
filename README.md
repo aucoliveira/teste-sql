@@ -1,13 +1,13 @@
 # Exercícios SQL
 
 <p align="justify">
-    Teste em SQL     
-</p>
+    Teste solicitado pela empresa Xyz;
+    Sql server;
 
 
 ## Desafio 01:
 <p align="justify">Descrição:</p>
-<p align="justify"> CONSULTE TODOS OS VEÍCULOS EXISTENTES NO BD, EXIBINDO A PLACA, MODELO E FABRICANTE DE CADA UM
+<p align="justify"> CONSULTE TODOS OS VEÍCULOS EXISTENTES NO BD, EXIBINDO A PLACA, MODELO E FABRICANTE DE CADA UM.
 </p>
 
 ```sql
